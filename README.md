@@ -1,1 +1,1 @@
-# This is My Kitty Dotfiles.
+# This is My Kitty Config.
